@@ -1,4 +1,4 @@
-uo_acao_cod;uo_acao_nome;uo_acao_sigla;uo_poder
+uo_cod;uo_nome;uo_sigla;uo_poder
 1011;ASSEMBLEIA LEGISLATIVA DO ESTADO DE MINAS GERAIS;ALMG;Poder Legislativo
 1021;TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS;TCEMG;Tribunal de Contas
 1031;TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS;TJMG;Poder Judiciário
